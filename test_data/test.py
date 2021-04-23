@@ -5,7 +5,7 @@
 # @File     :test.py
 # @Function :
 # juzi01.execute_fun('D:\\PycharmProjects\\JK\\test_data\\test_case_api.xlsx', 'login')
-filename = 'D:\\PycharmProjects\\JK\\test_data\\test_case_api.xlsx'
+filename = 'D:\\data_git\\JK_V1.0\\test_data\\test_case_api.xlsx'
 sheetname ='login'
 
-name="zhangsan"
+# name="zhangsan"
